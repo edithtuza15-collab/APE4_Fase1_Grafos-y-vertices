@@ -61,7 +61,7 @@ G = (V, E), donde:
 
 ## Código: `RedSocial.java`
 
-Programa de consola que reproduce las respuestas anteriores. Requiere JDK 8 o superior.
+Programa de consola que reproduce las respuestas anteriores. 
 
 ```bash
 javac RedSocial.java
